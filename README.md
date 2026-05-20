@@ -62,3 +62,4 @@ The table below represents the analysis of historical codes successfully parsed 
 | 2026-05-20 | stake.com | `staketrzkfmto335hxt` | 22:12:07.127 | 🔴 Claimed | Chrome Extension |
 | 2026-05-20 | stake.com | `stakepyhohthc2fbsnmny` | 22:37:01.936 | 🔴 Claimed | Chrome Extension |
 | 2026-05-20 | stake.com | `maysubbonus20561837` | 00:13:40.128 | 🔴 Claimed | Chrome Extension |
+| 2026-05-20 | stake.com | `stakecomfabgxdbmy1bq` | 00:52:01.516 | 🔴 Claimed | Chrome Extension |
