@@ -51,7 +51,6 @@ The table below represents the analysis of historical codes successfully parsed 
 
 | Date | Target | Bonus Code | Transmission Time (ms) | Status | Source Tool |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-06-06 | stake.com | `wegot6` | 13:28:41.986 | 🔴 Claimed | Chrome Extension |
 | 2026-06-06 | stake.com | `weekendatstake55` | 14:05:08.489 | 🔴 Claimed | Chrome Extension |
 | 2026-06-06 | stake.com | `highroller615` | 14:22:20.354 | 🔴 Claimed | Chrome Extension |
 | 2026-06-06 | stake.com | `finalweekenddrop` | 14:42:40.986 | 🔴 Claimed | Chrome Extension |
@@ -66,3 +65,4 @@ The table below represents the analysis of historical codes successfully parsed 
 | 2026-06-07 | stake.com | `stakecomsweep50` | 20:51:34.629 | 🔴 Claimed | Chrome Extension |
 | 2026-06-07 | stake.com | `happytimes3rr4` | 21:05:28.769 | 🔴 Claimed | Chrome Extension |
 | 2026-06-07 | stake.com | `stakecombiij76ljfd2gss` | 21:32:02.467 | 🔴 Claimed | Chrome Extension |
+| 2026-06-07 | stake.com | `staketra29h9h7kas5hz0` | 23:04:01.556 | 🔴 Claimed | Chrome Extension |
