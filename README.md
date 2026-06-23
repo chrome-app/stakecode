@@ -51,7 +51,6 @@ The table below represents the analysis of historical codes successfully parsed 
 
 | Date | Target | Bonus Code | Transmission Time (ms) | Status | Source Tool |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-06-22 | stake.com | `httpsplaystakeclubbonuscodecasinosvejune222026aqwdgd` | 09:27:20.870 | 🔴 Claimed | Chrome Extension |
 | 2026-06-22 | stake.com | `lmao` | 09:35:25.597 | 🔴 Claimed | Chrome Extension |
 | 2026-06-22 | stake.com | `wizard2k` | 09:42:27.499 | 🔴 Claimed | Chrome Extension |
 | 2026-06-22 | stake.com | `community` | 12:25:31.194 | 🔴 Claimed | Chrome Extension |
@@ -66,3 +65,4 @@ The table below represents the analysis of historical codes successfully parsed 
 | 2026-06-23 | stake.com | `q5rpddfj` | 00:08:40.572 | 🔴 Claimed | Chrome Extension |
 | 2026-06-23 | stake.com | `duhop8iu` | 00:14:13.032 | 🔴 Claimed | Chrome Extension |
 | 2026-06-23 | stake.com | `stakecom9fj8l8rdy17fyb` | 00:59:01.603 | 🔴 Claimed | Chrome Extension |
+| 2026-06-23 | stake.com | `stakewcyzr5gpw1pdt5ue` | 01:04:14.639 | 🔴 Claimed | Chrome Extension |
