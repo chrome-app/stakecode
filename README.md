@@ -51,7 +51,6 @@ The table below represents the analysis of historical codes successfully parsed 
 
 | Date | Target | Bonus Code | Transmission Time (ms) | Status | Source Tool |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-07-18 | stake.com | `stakecome3niam4o4mahlj` | 20:56:06.876 | 🔴 Claimed | Chrome Extension |
 | 2026-07-18 | stake.com | `stakecom14w3r531dd0bec` | 04:08:10.442 | 🔴 Claimed | Chrome Extension |
 | 2026-07-18 | stake.com | `stakecomsindwkw27xzpc5` | 04:58:10.700 | 🔴 Claimed | Chrome Extension |
 | 2026-07-18 | stake.com | `stakecomp80vdk4j0g41u1` | 09:17:12.008 | 🔴 Claimed | Chrome Extension |
@@ -66,3 +65,4 @@ The table below represents the analysis of historical codes successfully parsed 
 | 2026-07-18 | stake.com | `yuumiprodigylol` | 14:57:33.307 | 🔴 Claimed | Chrome Extension |
 | 2026-07-18 | stake.com | `teufloxaoaqgpi` | 15:32:50.252 | 🔴 Claimed | Chrome Extension |
 | 2026-07-18 | stake.com | `27lhc4ukp5` | 17:27:14.706 | 🔴 Claimed | Chrome Extension |
+| 2026-07-18 | stake.com | `stakecomadakoiru9gmr0g` | 18:06:12.380 | 🔴 Claimed | Chrome Extension |
