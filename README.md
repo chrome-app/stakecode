@@ -51,7 +51,6 @@ The table below represents the analysis of historical codes successfully parsed 
 
 | Date | Target | Bonus Code | Transmission Time (ms) | Status | Source Tool |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-08-13 | stake.com | `q02i7emfzuhvxaz` | 12:11:49.394 | 🔴 Claimed | Chrome Extension |
 | 2026-08-13 | stake.com | `stakecom64kl2o33vqckib` | 12:55:50.344 | 🔴 Claimed | Chrome Extension |
 | 2026-08-13 | stake.com | `stakecomwbbznpkhbgzpw4` | 18:10:58.035 | 🔴 Claimed | Chrome Extension |
 | 2026-08-13 | stake.com | `stakecomwbbhznpkhbp14` | 18:13:33.184 | 🔴 Claimed | Chrome Extension |
@@ -66,3 +65,4 @@ The table below represents the analysis of historical codes successfully parsed 
 | 2026-08-14 | stake.com | `r158240lbe` | 08:56:35.966 | 🔴 Claimed | Chrome Extension |
 | 2026-08-14 | stake.com | `stakecomc8jaik4hsgqmz` | 11:55:28.251 | 🔴 Claimed | Chrome Extension |
 | 2026-08-14 | stake.com | `esportgoodwillbonus140826` | 12:14:24.971 | 🔴 Claimed | Chrome Extension |
+| 2026-08-14 | stake.com | `stakecomha6ls944d9sgsp` | 12:43:01.867 | 🔴 Claimed | Chrome Extension |
