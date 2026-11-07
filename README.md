@@ -51,7 +51,6 @@ The table below represents the analysis of historical codes successfully parsed 
 
 | Date | Target | Bonus Code | Transmission Time (ms) | Status | Source Tool |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-11-07 | stake.com | `towerofcalamityoctober2026holymoly` | 01:03:11.483 | 🔴 Claimed | Chrome Extension |
 | 2026-11-07 | stake.com | `visual9ii7` | 01:29:51.683 | 🔴 Claimed | Chrome Extension |
 | 2026-11-07 | stake.com | `stakecomg5igetkhj8ctu7` | 02:40:16.292 | 🔴 Claimed | Chrome Extension |
 | 2026-11-07 | stake.com | `01rx6nuq` | 02:42:21.080 | 🔴 Claimed | Chrome Extension |
@@ -66,3 +65,4 @@ The table below represents the analysis of historical codes successfully parsed 
 | 2026-11-07 | stake.com | `forumunlimitedcommunitypoolnoc062026fsasdfavv` | 10:37:58.989 | 🔴 Claimed | Chrome Extension |
 | 2026-11-07 | stake.com | `bil7y5t2rm` | 11:19:39.299 | 🔴 Claimed | Chrome Extension |
 | 2026-11-07 | stake.com | `6vac2az6dv8d4` | 12:10:15.369 | 🔴 Claimed | Chrome Extension |
+| 2026-11-07 | stake.com | `boostweekly7nov26` | 12:30:08.265 | 🔴 Claimed | Chrome Extension |
